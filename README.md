@@ -40,7 +40,7 @@
       <li>"Life is an adventure—live it to the fullest!" 🌟</li>
     </ul>
   </div>
-  <div>
+  <div align="right">
     <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   </div>
 </div>
