@@ -87,7 +87,7 @@
   </a>
 
   <br /><br />
-  <a href="https://codesandbox.io/u/anuraghazra">
+  <a>
     <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
 </div>
