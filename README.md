@@ -88,22 +88,4 @@
   <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 </div>
 
-<style>
-  /* CSS animation to add motion effect */
-  .motion-img {
-    animation: slide 3s ease-in-out infinite;
-    margin: 10px;
-  }
 
-  @keyframes slide {
-    0% {
-      transform: translateX(0);
-    }
-    50% {
-      transform: translateX(20px);
-    }
-    100% {
-      transform: translateX(0);
-    }
-  }
-</style>
