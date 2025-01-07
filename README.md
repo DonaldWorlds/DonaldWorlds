@@ -83,9 +83,9 @@
 </p>
 
 <!-- Adding the dynamic GIF image -->
-<p align="right">
-   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-</p>
+<div align="right">
+  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+</div>
 
 <style>
   /* CSS animation to add motion effect */
