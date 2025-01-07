@@ -9,32 +9,21 @@
 
   <hr style="width:50%;margin:20px auto;">
 
-  <blockquote>Creativity is contagious, pass it on. – Albert Einstein</blockquote>
+  <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
-
+<p align="center">
+   <a href="https://www.linkedin.com/in/donald-witherspoon/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/donaldwitherspoon"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Twitter"></a>&nbsp;&nbsp;
+   <a href="https://dev.to/donaldwitherspoon"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Dev.to"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/donaldwitherspoon"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true" alt="Facebook"></a>&nbsp;&nbsp;
+   <a href="https://www.buymeacoffee.com/donaldwitherspoon"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="Buy Me a Coffee"></a>&nbsp;&nbsp;
+</p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
 
 
 
