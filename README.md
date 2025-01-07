@@ -29,7 +29,7 @@
 </div>
 
 <!-- Align text to the left and image to the right using flexbox -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; background-color: #ADD8E6;">
   <!-- Left side (text) -->
   <div>
     <ul>
@@ -47,6 +47,7 @@
     <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   </div>
 </div>
+
 
 
 <h2 align="center">Languages and Tools</h2>
