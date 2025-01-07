@@ -30,7 +30,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
+<!-- Align text to the left and image to the right using flexbox -->
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; background-color: #ADD8E6;">
+  <!-- Left side (text) -->
   <div style="color: #000000;">
     <ul>
       <li>📝 Learning Swift & Objective-C</li>
@@ -43,8 +45,8 @@
   </div>
 </div>
 
-<h2 align="center" style="color: #000000;">Languages and Tools</h2>
-<p align="center">
+<h2 align="center" style="color: #000000; margin-top: 50px;">Languages and Tools</h2>
+<p align="center" style="margin-bottom: 50px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" class="motion-img">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="C#" class="motion-img">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" class="motion-img">
@@ -76,4 +78,10 @@
 
   <br /><br />
   <a href="https://codesandbox.io/u/anuraghazra">
-    <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anur
+    <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  </a>
+</div>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
+</p>
