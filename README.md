@@ -24,7 +24,7 @@
    </a>
 </p>
 
-<div align="left">
+<div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
 
