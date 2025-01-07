@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <h1>Hi there, I'm <strong>Donald Witherspoon</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand"></h1>
 
