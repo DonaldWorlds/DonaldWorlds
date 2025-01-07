@@ -9,7 +9,7 @@
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
 
-<p align="left">
+<p align="center">
    <a href="https://www.linkedin.com/in/donald-witherspoon/">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" class="motion-img">
    </a>&nbsp;&nbsp;
@@ -24,12 +24,12 @@
    </a>
 </p>
 
-<div align="right">
+<div align="left">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
 
 <!-- Align text to the left and image to the right using flexbox -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: left;">
   <div>
     <ul>
       <li>📝 Learning Swift & Objective-C</li>
