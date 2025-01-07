@@ -45,6 +45,8 @@
   </div>
 </div>
 
+<div>
+
 <h2 align="center" style="color: #000000; margin-top: 50px;">Languages and Tools</h2>
 <p align="center" style="margin-bottom: 50px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" class="motion-img">
@@ -57,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" class="motion-img">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" class="motion-img">
 </p>
-
+</div>
 <h2 align="center" style="color: #000000;">Github Stats</h2>
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
