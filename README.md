@@ -25,11 +25,16 @@
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="Buy Me a Coffee" class="motion-img">
    </a>
 </p>
+<div align="right">
+  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+</div>
 
 <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
-
+<div align="right">
+  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+</div>
 <ul>
   <li>📝 Learning Swift & Objective-C</li>
   <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
