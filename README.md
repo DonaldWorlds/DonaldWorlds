@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #ADD8E6; ">
+<div align="top" style="background-color: #ADD8E6; ">
   <h1>Hi there, I'm <strong>Donald Witherspoon</strong> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" class="motion-img">
   </h1>
