@@ -9,24 +9,26 @@
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
 
-<p align="center">
-   <a href="https://www.linkedin.com/in/donald-witherspoon/">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" class="motion-img">
-   </a>&nbsp;&nbsp;
-   <a href="https://twitter.com/donaldwitherspoon">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Twitter" class="motion-img">
-   </a>&nbsp;&nbsp;
-   <a href="https://dev.to/donaldwitherspoon">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true" alt="Dev.to" class="motion-img">
-   </a>&nbsp;&nbsp;
-   <a href="https://www.buymeacoffee.com/donaldwitherspoon">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true" alt="Buy Me a Coffee" class="motion-img">
-   </a>
-</p>
-
-<div align="center">
-  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
+<!-- Align text to the left and image to the right using flexbox -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <!-- Left side (text) -->
+  <div style="flex: 1; text-align: left;">
+    <ul>
+      <li>📝 Learning Swift & Objective-C</li>
+      <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
+      <li>🔭 SpaceX enthusiast, fascinated by the cosmos. 🌌</li>
+      <li>🛸 Passionate about astrophysics and the mysteries of the universe.</li>
+      <li>❤️ Full-stack developer with a love for tackling diverse challenges.</li>
+      <li>"Life is an adventure—live it to the fullest!" 🌟</li>
+    </ul>
+  </div>
+  
+  <!-- Right side (image) -->
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  </div>
 </div>
+
 
 
 <!-- Align text to the left and image to the right using flexbox -->
