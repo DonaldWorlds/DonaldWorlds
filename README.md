@@ -8,7 +8,9 @@
 
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
-
+<div align="right">
+  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+</div>
 <p align="center">
    <a href="https://www.linkedin.com/in/donald-witherspoon/">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" class="motion-img">
@@ -75,9 +77,7 @@
 </div>
 
 <!-- Adding the dynamic GIF image -->
-<div align="right">
-  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-</div>
+
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
