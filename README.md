@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #ADD8E6; padding: 20px;">
+<div align="center" style="background-color: #ADD8E6; color: #000000;">
   <h1>Hi there, I'm <strong>Donald Witherspoon</strong> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" class="motion-img">
   </h1>
@@ -9,7 +9,7 @@
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
 
-<p align="center">
+<p align="center" style="color: #000000;">
    <a href="https://www.linkedin.com/in/donald-witherspoon/">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" class="motion-img">
    </a>&nbsp;&nbsp;
@@ -24,14 +24,14 @@
    </a>
 </p>
 
-<div align="center" style="background-color: #ADD8E6; padding: 20px;">
+<div align="center" style="color: #000000;">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
 
 <!-- Align text to the left and image to the right using flexbox -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; background-color: #ADD8E6; padding: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; background-color: #ADD8E6;">
   <!-- Left side (text) -->
-  <div>
+  <div style="color: #000000;">
     <ul>
       <li>📝 Learning Swift & Objective-C</li>
       <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
@@ -48,7 +48,7 @@
   </div>
 </div>
 
-<h2 align="center" style="background-color: #ADD8E6; padding: 20px;">Languages and Tools</h2>
+<h2 align="center" style="color: #000000;">Languages and Tools</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" class="motion-img">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="C#" class="motion-img">
@@ -61,16 +61,16 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" class="motion-img">
 </p>
 
-<h2 align="center" style="background-color: #ADD8E6; padding: 20px;">Github Stats</h2>
+<h2 align="center" style="color: #000000;">Github Stats</h2>
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img src="https://github-readme-stats.vercel.app/api?username=donaldwitherspoon&show_icons=true&theme=radical" alt="Donald Witherspoon's GitHub stats" class="motion-img">
    </a>
 </p>
 
-<h2 align="center" style="background-color: #ADD8E6; padding: 20px;">My Projects</h2>
-<div align="center" style="background-color: #ADD8E6; padding: 20px;">
-  <h2>Top Repositories</h2>
+<h2 align="center" style="color: #000000;">My Projects</h2>
+<div align="center">
+  <h2 style="color: #000000;">Top Repositories</h2>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&bg_color=0000" />
@@ -85,6 +85,6 @@
   </a>
 </div>
 
-<p align="center" style="background-color: #ADD8E6; padding: 20px;">
+<p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
 </p>
