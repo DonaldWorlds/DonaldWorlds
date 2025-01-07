@@ -27,6 +27,8 @@
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
 
+<hr>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 <!-- Align text to the left and image to the right using flexbox -->
