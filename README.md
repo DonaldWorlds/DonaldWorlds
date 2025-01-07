@@ -29,9 +29,9 @@
 </div>
 
 
-
 <!-- Align text to the left and image to the right using flexbox -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left side (text) -->
   <div style="flex: 1; text-align: left;">
     <ul>
       <li>📝 Learning Swift & Objective-C</li>
@@ -42,6 +42,8 @@
       <li>"Life is an adventure—live it to the fullest!" 🌟</li>
     </ul>
   </div>
+  
+  <!-- Right side (image) -->
   <div style="flex-shrink: 0;">
     <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   </div>
