@@ -55,8 +55,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <div>
 
 <h2 align="center" style="color: #000000; margin-top: 50px;">Languages and Tools</h2>
