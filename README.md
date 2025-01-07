@@ -8,9 +8,6 @@
 
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
-<p align="center">
-   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
-</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/donald-witherspoon/">
@@ -72,20 +69,16 @@
   </a>
 
   <br /><br />
-
-
   <a href="https://codesandbox.io/u/anuraghazra">
     <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
 </div>
-
-<p align="center">
-   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
-</p>
 
 <!-- Adding the dynamic GIF image -->
 <div align="right">
   <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 </div>
 
-
+<p align="center">
+   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
+</p>
