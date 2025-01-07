@@ -6,6 +6,7 @@
 
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
+<hr>
 
 <p align="center" style="color: #000000;">
    <a href="https://www.linkedin.com/in/donald-witherspoon/">
