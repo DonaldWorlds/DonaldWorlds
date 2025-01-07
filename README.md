@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm <strong>Donald Witherspoon</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" class="motion-img"></h1>
+  <h1>Hi there, I'm <strong>Donald Witherspoon</strong> 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" class="motion-img">
+  </h1>
   <p><strong>Just a guy making the web a little brighter every day! 🌟</strong></p>
 
   <hr style="width:50%;margin:20px auto;">
@@ -56,17 +58,33 @@
 </p>
 
 <h2 align="center">My Projects</h2>
-<p align="center">
-  <a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" class="motion-img"> </a>
-  <a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg" height="68" class="motion-img"> </a>
-  <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" class="motion-img"> </a>
-  <a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" class="motion-img"> </a>
-  <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" class="motion-img"> </a>
-  <a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" class="motion-img"> </a>
-</p>
+<div align="center">
+  <h2>Top Repositories</h2>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&bg_color=0000" />
+  </a>
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy&bg_color=0000" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://twitter.com/anuraghazru">
+    <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://codesandbox.io/u/anuraghazra">
+    <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  </a>
+</div>
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
+</p>
+
+<!-- Adding the dynamic GIF image -->
+<p align="right">
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 </p>
 
 <style>
