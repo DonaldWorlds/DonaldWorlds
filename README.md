@@ -54,8 +54,10 @@
 <br>
 <br>
 
-<div>
+<hr>
 
+
+<div>
 <h2 align="center" style="color: #000000; margin-top: 50px;">Languages and Tools</h2>
 <p align="center" style="margin-bottom: 50px;">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" class="motion-img">
