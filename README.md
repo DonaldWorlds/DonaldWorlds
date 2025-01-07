@@ -3,7 +3,6 @@
 
   <p><strong>Just a guy making the web a little brighter every day! 🌟</strong></p>
 
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20" alt="Pronouns: He/Him">
 
   <hr style="width:50%;margin:20px auto;">
 
