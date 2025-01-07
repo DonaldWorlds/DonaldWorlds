@@ -55,45 +55,6 @@
 
 
 
-
-
-
-
-<!-- Align text to the left and image to the right using flexbox -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: left;">
-    <ul>
-      <li>📝 Learning Swift & Objective-C</li>
-      <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
-      <li>🔭 SpaceX enthusiast, fascinated by the cosmos. 🌌</li>
-      <li>🛸 Passionate about astrophysics and the mysteries of the universe.</li>
-      <li>❤️ Full-stack developer with a love for tackling diverse challenges.</li>
-      <li>"Life is an adventure—live it to the fullest!" 🌟</li>
-    </ul>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  </div>
-</div>
-
-
-<!-- Align text to the left and image to the right using flexbox -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <ul>
-      <li>📝 Learning Swift & Objective-C</li>
-      <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
-      <li>🔭 SpaceX enthusiast, fascinated by the cosmos. 🌌</li>
-      <li>🛸 Passionate about astrophysics and the mysteries of the universe.</li>
-      <li>❤️ Full-stack developer with a love for tackling diverse challenges.</li>
-      <li>"Life is an adventure—live it to the fullest!" 🌟</li>
-    </ul>
-  </div>
-  <div>
-    <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  </div>
-</div>
-
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" class="motion-img">
