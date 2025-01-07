@@ -78,7 +78,6 @@
    </a>
 </p>
 
-<h2 align="center" style="color: #000000;">My Projects</h2>
 <div align="center">
   <h2 style="color: #000000;">Top Repositories</h2>
 
