@@ -24,21 +24,26 @@
    </a>
 </p>
 
-
 <div align="center">
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"> 🙎 Donald Witherspoon | 💻 Full Stack Developer | 🌍 Global Explorer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" class="motion-img"></h3>
 </div>
-<div align="right">
-  <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+<!-- Align text to the left and image to the right using flexbox -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <ul>
+      <li>📝 Learning Swift & Objective-C</li>
+      <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
+      <li>🔭 SpaceX enthusiast, fascinated by the cosmos. 🌌</li>
+      <li>🛸 Passionate about astrophysics and the mysteries of the universe.</li>
+      <li>❤️ Full-stack developer with a love for tackling diverse challenges.</li>
+      <li>"Life is an adventure—live it to the fullest!" 🌟</li>
+    </ul>
+  </div>
+  <div>
+    <img alt="Tech Stack GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  </div>
 </div>
-<ul>
-  <li>📝 Learning Swift & Objective-C</li>
-  <li><i>Working with JavaScript, TypeScript, React, and beyond.</i></li>
-  <li>🔭 SpaceX enthusiast, fascinated by the cosmos. 🌌</li>
-  <li>🛸 Passionate about astrophysics and the mysteries of the universe.</li>
-  <li>❤️ Full-stack developer with a love for tackling diverse challenges.</li>
-  <li>"Life is an adventure—live it to the fullest!" 🌟</li>
-</ul>
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -76,9 +81,6 @@
     <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
 </div>
-
-<!-- Adding the dynamic GIF image -->
-
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" class="motion-img">
