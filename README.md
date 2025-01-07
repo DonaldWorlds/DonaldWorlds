@@ -1,10 +1,8 @@
-<div align="center" style="background-color: #ADD8E6; color: #000000;">
+<div align="center" style="background-color: #ADD8E6; ">
   <h1>Hi there, I'm <strong>Donald Witherspoon</strong> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand" class="motion-img">
   </h1>
   <p><strong>Just a guy making the web a little brighter every day! 🌟</strong></p>
-
-  <hr style="width:50%;margin:20px auto;">
 
   <blockquote>"Creativity is contagious, pass it on." – Albert Einstein</blockquote>
 </div>
